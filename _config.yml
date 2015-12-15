@@ -1,7 +1,7 @@
 name: Po-Ke
 favicon: null
-layout_spectrum: 0.3592883781529963
-typography_spectrum: 0.19178357650525868
+layout_spectrum: 0.50694
+typography_spectrum: 0.72667
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.35836767754517496
-  lightness: 0.23164643184281886
-  saturation: 0.9248287377413362
-  rhythmicContrast: 0.2994542815722525
+  brandStrength: 0.375
+  lightness: 0.3125
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
